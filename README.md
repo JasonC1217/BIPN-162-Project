@@ -1,2 +1,2 @@
-This is final project for BIPN 162
+This is the final project for BIPN 162
 Topic:
